@@ -1,0 +1,11 @@
+{
+	"name": "theme_3",
+	"short_name": "theme_3",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
